@@ -10,13 +10,13 @@ This program is to calculate price and greak letter for regular option by Black 
   
 The formula for Black Scholes pricing and and greak letters is shown below. If you wish to dig into more, there are abundant of resource on the internet and I am planing on writing a medium on it.
   
-- Call Price ![Call Price]('/images/CallPrice.png')
-- Put Price ![Put Price]('/images/PutPrice.png')
-- Delta ![Delta]('/images/delta.png')
-- Gamma ![Gamma]('/images/gamma.png')
-- Vega ![Vega]('/images/vega.png')
-- Rho ![Rho]('/images/rho.png')
-- Theta ![[Theta]('/images/theta.png')
+- Call Price ![Call Price](/images/CallPrice.png)
+- Put Price ![Put Price](/images/PutPrice.png)
+- Delta ![Delta](/images/delta.png)
+- Gamma ![Gamma](/images/gamma.png)
+- Vega ![Vega](/images/vega.png)
+- Rho ![Rho](/images/rho.png)
+- Theta ![[Theta](/images/theta.png)
     
 ## Basic Information  
 Author: Albert Lin    
