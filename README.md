@@ -10,25 +10,25 @@ This program is to calculate price and greak letter for regular option by Black 
   
 The formula for Black Scholes pricing and and greak letters is shown below. If you wish to dig into more, there are abundant of resource on the internet and I am planing on writing a medium on it.
   
-- Call Price   
+- Call Price: The theoretic price for call option    
     <img src= "/images/CallPrice.png" height="25">  
 
-- Put Price   
+- Put Price: The theoretic price for put option    
     <img src="/images/PutPrice.png" height="25">  
 
-- Delta   
+- Delta: Measure the rate change of option price w.r.t underlying stock price   
     <img src="/images/delta.png" height="25">  
 
-- Gamma   
+- Gamma: Measure the rate change of Delta w.r.t underlying stock price  
     <img src="/images/gamma.png" height="25">  
   
-- Vega   
+- Vega: Measure the sensitive of price to volatility   
     <img src="/images/vega.png" height="25">  
 
-- Rho   
+- Rho: Measure the sensitive of price to interest rate   
     <img src="/images/rho.png" height="25">  
 
-- Theta   
+- Theta: Time decay, namely, measure the sensitive of price to maturity time   
     <img src="/images/theta.png" height="25">
     
 ## Basic Information  
