@@ -55,7 +55,7 @@ The formula for Black Scholes pricing and and greak letters is shown below. If y
 ### Output format   
 - Output: Call/ Put Option price and greak letter   
 ```
- Call Option 
+=== Call Option ===
 Call Option Price: 12.91346
 Call Delta: 0.52694
 Call Gamma: 0.01066
@@ -63,7 +63,7 @@ Call Vega: 47.94845
 Call Rho: 59.67123
 Call Theta: -6.56279
 
- Put Option 
+=== Put Option ===
 Put Option Price: 16.45405
 Put Delta: -0.45817
 Put Gamma: 0.01066
