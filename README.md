@@ -1,23 +1,22 @@
 # Black Scholes Option Pricing
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linhsinkai)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hsinkai.lin.327)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/albert-hk-lin)
+  
 [![Followers](https://img.shields.io/github/followers/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)
 [![Stars](https://img.shields.io/github/stars/AlbertLin0327?style=social)](https://github.com/AlbertLin0327)
-
+![Issue](https://img.shields.io/github/issues/AlbertLin0327/Black-Scholes-Option-Pricing)
+![Commit](https://img.shields.io/github/last-commit/AlbertLin0327/Black-Scholes-Option-Pricing)
+  
 ## Program Description   
 This program is to calculate price and greak letter for regular option by Black Scholes method. Since using Black Scholes, price and greak letter can be compute efficiently within O(1). There are also different pricing models and I will work on them in the near future.  
   
 The formula for Black Scholes pricing and and greak letters is shown below. If you wish to dig into more, there are abundant of resource on the internet and I am planing on writing a medium on it.
-
-- Call Price ![Call Price]('./images/CallPrice.png')
-- Put Price ![Put Price]('./images/PutPrice.png')
-- Delta ![Delta]('./images/delta.png')
-- Gamma ![Gamma]('./images/gamma.png')
-- Vega ![Vega]('./images/vega.png')
-- Rho ![Rho]('./images/rho.png')
-- Theta ![[Theta]('./images/theta.png')
+  
+- Call Price ![Call Price]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/CallPrice.png')
+- Put Price ![Put Price]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/PutPrice.png')
+- Delta ![Delta]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/delta.png')
+- Gamma ![Gamma]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/gamma.png')
+- Vega ![Vega]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/vega.png')
+- Rho ![Rho]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/rho.png')
+- Theta ![[Theta]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/theta.png')
     
 ## Basic Information  
 Author: Albert Lin    
@@ -57,3 +56,8 @@ Put Theta: -1.64954
 ## Reference   
 [Quantative Finance Fintech  Prof.Han](http://mx.nthu.edu.tw/~chhan/mainframe.html)  
 
+
+## Links to Me!
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linhsinkai)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hsinkai.lin.327)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/albert-hk-lin)
