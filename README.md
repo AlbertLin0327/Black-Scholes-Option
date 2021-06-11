@@ -10,13 +10,13 @@ This program is to calculate price and greak letter for regular option by Black 
   
 The formula for Black Scholes pricing and and greak letters is shown below. If you wish to dig into more, there are abundant of resource on the internet and I am planing on writing a medium on it.
   
-- Call Price ![Call Price]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/CallPrice.png?raw=true')
-- Put Price ![Put Price]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/PutPrice.png?raw=true')
-- Delta ![Delta]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/delta.png?raw=true')
-- Gamma ![Gamma]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/gamma.png?raw=true')
-- Vega ![Vega]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/vega.png?raw=true')
-- Rho ![Rho]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/rho.png?raw=true')
-- Theta ![[Theta]('https://github.com/AlbertLin0327/Black-Scholes-Option-Pricing/blob/main/images/theta.png?raw=true')
+- Call Price ![Call Price]('/images/CallPrice.png')
+- Put Price ![Put Price]('/images/PutPrice.png')
+- Delta ![Delta]('/images/delta.png')
+- Gamma ![Gamma]('/images/gamma.png')
+- Vega ![Vega]('/images/vega.png')
+- Rho ![Rho]('/images/rho.png')
+- Theta ![[Theta]('/images/theta.png')
     
 ## Basic Information  
 Author: Albert Lin    
