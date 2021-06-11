@@ -1,5 +1,7 @@
+# Import Black Scholes Model
 from BlackScholes import BlackScholes
 
+# Print result
 def printInfo(ordinary_option, r):
 
 	print('')
