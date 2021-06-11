@@ -11,26 +11,34 @@ This program is to calculate price and greak letter for regular option by Black 
 The formula for Black Scholes pricing and and greak letters is shown below. If you wish to dig into more, there are abundant of resource on the internet and I am planing on writing a medium on it.
   
 - Call Price: The theoretic price for call option    
+
     <img src= "/images/CallPrice.png" height="25">  
 
 - Put Price: The theoretic price for put option    
+
     <img src="/images/PutPrice.png" height="25">  
 
 - Delta: Measure the rate change of option price w.r.t underlying stock price   
+
     <img src="/images/delta.png" height="25">  
 
 - Gamma: Measure the rate change of Delta w.r.t underlying stock price  
+
     <img src="/images/gamma.png" height="25">  
   
-- Vega: Measure the sensitive of price to volatility   
+- Vega: Measure the sensitive of price to volatility  
+
     <img src="/images/vega.png" height="25">  
 
 - Rho: Measure the sensitive of price to interest rate   
+
     <img src="/images/rho.png" height="25">  
 
 - Theta: Time decay, namely, measure the sensitive of price to maturity time   
+
     <img src="/images/theta.png" height="25">
     
+  
 ## Basic Information  
 Author: Albert Lin    
 School: National Taiwna University    
@@ -66,10 +74,11 @@ Put Rho: -93.40644
 Put Theta: -1.64954
 ```
   
+
 ## Reference   
 [Quantative Finance Fintech  Prof.Han](http://mx.nthu.edu.tw/~chhan/mainframe.html)  
-
-
+  
+  
 ## Links to Me!
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@linhsinkai)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hsinkai.lin.327)
