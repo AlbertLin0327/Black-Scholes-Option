@@ -48,14 +48,12 @@ The formula for Black Scholes pricing and and greak letters is shown below. If y
 ## Usage
 ### Input format   
 - Inputs: *S (stock price), X (strike price), r (continuously compounded annual interest rate in percentage), d (continuously compounded annual dividend rate in percentage), s (annual volatility in percentage), T (time to maturity in years), t (current time in year).*   
-- Ex: 
 ```
 100 110 5 1 30 2 0.5  
 ```  
   
 ### Output format   
-- Output: Call/ Put Option price and greak letter  
-- Ex:  
+- Output: Call/ Put Option price and greak letter   
 ```
  Call Option 
 Call Option Price: 12.91346
